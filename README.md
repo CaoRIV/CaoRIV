@@ -53,10 +53,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
-
 ---
-
-## 🌐 Connect With Me
 ## 🌐 Connect With Me
 
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm CaoRIV 👋</h1>
+<h1 align="center">Hi there, I'm Cao Van Ha 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;UTCer;Always+learning+new+things;Welcome+to+my+GitHub+profile&font=Fira%20Code&center=true&width=500&height=45&color=f7b267&vCenter=true&pause=1000&size=22" />

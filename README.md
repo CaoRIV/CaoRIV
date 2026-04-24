@@ -8,11 +8,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I am an Information Technology student
-- 🌱 I am currently improving my skills in web development and data structures & algorithms
-- 💡 I am interested in programming, problem solving, and building useful projects
-- 🚀 My goal is to become a strong developer in the future
-- 📍 From Vietnam
+- 🎓 I am an Information Technology student at the University of Transport and Communications
+- 🌱 I have a strong willingness to learn and continuously improve my skills
+- 💻 I am currently focusing on web development and data structures & algorithms
+- 📊 I am interested in data, programming, problem solving, and building useful projects
+- 🚀 My goal is to become a Data Engineer in the future
+- 📍 I am from Ha Tinh, Vietnam
 
 ---
 

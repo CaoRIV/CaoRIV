@@ -20,7 +20,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,cpp,cs,java,python,docker,redis,typescripts,postgres,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,cpp,cs,java,python,docker,redis,ts,postgres,git,github,vscode,vercel" />
 </p>
 
 ## 🧠 Core Skills
@@ -35,9 +35,7 @@
 <!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
---- -->
+</p> -->
 
 ## 🔥 GitHub Streak
 

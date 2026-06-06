@@ -20,7 +20,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,cpp,cs,java,python,docker,redis,postgres,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,cpp,cs,java,python,docker,redis,typescripts, postgres,git,github,vscode,vercel" />
 </p>
 
 ## 🧠 Core Skills

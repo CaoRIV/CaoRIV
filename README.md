@@ -52,18 +52,29 @@
 | [**V-Fashion-Insight**](https://github.com/CaoRIV/V-Fashion-Insight) | Aspect-based sentiment analysis for Vietnamese fashion reviews | Python, PhoBERT, TF-IDF, Streamlit | ✅ Complete |
 | [**Customer Churn Analysis**](https://github.com/CaoRIV/customer-churn-data-mining) | Data Mining project analyzing and predicting customer churn | Python, Jupyter Notebook, Data Mining | ✅ Complete |
 
-<p align="center">
-  <a href="https://github.com/CaoRIV">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&theme=tokyo-night&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/CaoRIV">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&theme=tokyo-night&hide_border=true" />
+  </a>
 </p>
 
 ---

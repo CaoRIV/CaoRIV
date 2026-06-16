@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Cao Van Ha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;UTCer;Always+learning+new+things;Welcome+to+my+GitHub+profile&font=Fira%20Code&center=true&width=500&height=45&color=f7b267&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;UTCer;Always+learning+new+things;Welcome+to+my+GitHub+profile&font=Fira%20Code&center=true&width=500&height=40" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 - 🎓 I am an Information Technology student at the University of Transport and Communications
 - 🌱 I have a strong willingness to learn and continuously improve my skills
-- 💻 I am currently focusing on web development and data structures & algorithms
+- 💻 I am passionate about **Full-Stack Development**, **AI/ML Integration**, and **Data Engineering**
 - 📊 I am interested in data, programming, problem solving, and building useful projects
-- 🚀 My goal is to become a Data Engineer in the future
+- 🚀 My goal is to become a **Full-Stack Developer with AI/ML expertise** and **Data Engineer**
 - 📍 I am from Ha Tinh, Vietnam
 
 ---
@@ -23,34 +23,47 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,cpp,cs,java,python,docker,redis,ts,postgres,git,github,vscode,vercel" />
 </p>
 
-## 🧠 Core Skills
+## 🧠 Core Competencies
 
-- Data Structures and Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Problem Solving
-- Web Development
+- **Full-Stack Web Development** (FastAPI, Next.js, React, Node.js)
+- **AI/ML & Data Engineering** (RAG Systems, PhoBERT, TF-IDF, Data Mining)
+- **Real-time Applications** (WebSocket, Chat Systems)
+- **Natural Language Processing** (Sentiment Analysis, Vietnamese Text Processing)
+- **Data Structures & Algorithms (DSA)**
+- **Object-Oriented Programming (OOP)**
 
-## 📊 GitHub Stats
+## 📚 Current Focus
 
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
-</p>
+- 🤖 **AI & LLM Integration** (RAG systems, Advanced NLP)
+- 🎓 **Educational Technology** (Study planning, Learning chatbots)
+- 💬 **NLP & Sentiment Analysis** (Vietnamese text processing, Aspect-based sentiment)
+- 🚀 **Full-Stack Development** (Modern web stacks with TypeScript)
+- 📊 **Data Engineering** (ETL, Data Analysis, Data Mining)
 
 ---
 
 ## 📌 Featured Projects
 
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| [**Study-Goal**](https://github.com/CaoRIV/Study-Goal) | Premium university OS for ambitious students - semester planning, GPA tracking, goal management | TypeScript, Next.js, React | ⭐ Active |
+| [**MathRAG-THPT**](https://github.com/CaoRIV/MathRAG-THPT) | AI-powered math learning chatbot for high school students | Python, TypeScript, RAG, LLM | ⭐ Active |
+| [**IT-Smart-Assistant**](https://github.com/CaoRIV/IT-Smart-Assistant) | AI Assistant supporting lecturers & students at IT faculty (SSR 2025-2026) | Python, TypeScript, FastAPI | ⭐ Active |
+| [**V-Fashion-Insight**](https://github.com/CaoRIV/V-Fashion-Insight) | Aspect-based sentiment analysis for Vietnamese fashion reviews | Python, PhoBERT, TF-IDF, Streamlit | ✅ Complete |
+| [**Customer Churn Analysis**](https://github.com/CaoRIV/customer-churn-data-mining) | Data Mining project analyzing and predicting customer churn | Python, Jupyter Notebook, Data Mining | ✅ Complete |
+
 <p align="center">
   <a href="https://github.com/CaoRIV">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&theme=tokyo-night&hide_border=true" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,5 +84,4 @@
 
 ## ✨ Quote
 
-> “Keep learning, keep building, and trust the process.”
-
+> "Keep learning, keep building, and trust the process."

@@ -56,25 +56,20 @@
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&icon_color=BF91F3&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&border_radius=10" />
 </p>
-
----
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/CaoRIV">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&theme=tokyo-night&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=0D1117&color=C9D1D9&line=70A5FD&point=BF91F3&area=true&hide_border=true" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

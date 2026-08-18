@@ -1,93 +1,155 @@
-<h1 align="center">Hi there, I'm Cao Van Ha 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Information+Technology+Student;UTCer;Always+learning+new+things;Welcome+to+my+GitHub+profile&font=Fira%20Code&center=true&width=500&height=40" />
-</p>
+# Cao Van Ha
 
----
+### Information Technology Student · Full-Stack Learner · AI & Data Enthusiast
 
-## 👨‍💻 About Me
-
-- 🎓 I am an Information Technology student at the University of Transport and Communications
-- 🌱 I have a strong willingness to learn and continuously improve my skills
-- 💻 I am passionate about **Full-Stack Development**, **AI/ML Integration**, and **Data Engineering**
-- 📊 I am interested in data, programming, problem solving, and building useful projects
-- 🚀 My goal is to become a **Full-Stack Developer with AI/ML expertise** and **Data Engineer**
-- 📍 I am from Ha Tinh, Vietnam
-
----
-
-## 🛠️ Languages and Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Information+Technology+Student+at+UTC;Building+useful+products+with+code;Exploring+AI%2C+LLMs+and+Data+Engineering;Learning+in+public%2C+one+project+at+a+time" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Information+Technology+Student+at+UTC;Building+useful+products+with+code;Exploring+AI%2C+LLMs+and+Data+Engineering;Learning+in+public%2C+one+project+at+a+time" />
+  <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Information+Technology+Student+at+UTC;Building+useful+products+with+code;Exploring+AI%2C+LLMs+and+Data+Engineering;Learning+in+public%2C+one+project+at+a+time" />
+</picture>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,cpp,cs,java,python,docker,redis,ts,postgres,git,github,vscode,vercel" />
+  <a href="https://github.com/CaoRIV"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@devcoinrir11"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-## 🧠 Core Competencies
+<sub>Ha Tinh, Vietnam · University of Transport and Communications</sub>
 
-- **Full-Stack Web Development** (FastAPI, Next.js, React, Node.js)
-- **AI/ML & Data Engineering** (RAG Systems, PhoBERT, TF-IDF, Data Mining)
-- **Real-time Applications** (WebSocket, Chat Systems)
-- **Natural Language Processing** (Sentiment Analysis, Vietnamese Text Processing)
-- **Data Structures & Algorithms (DSA)**
-- **Object-Oriented Programming (OOP)**
-
-## 📚 Current Focus
-
-- 🤖 **AI & LLM Integration** (RAG systems, Advanced NLP)
-- 🎓 **Educational Technology** (Study planning, Learning chatbots)
-- 💬 **NLP & Sentiment Analysis** (Vietnamese text processing, Aspect-based sentiment)
-- 🚀 **Full-Stack Development** (Modern web stacks with TypeScript)
-- 📊 **Data Engineering** (ETL, Data Analysis, Data Mining)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## About me
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| [**Study-Goal**](https://github.com/CaoRIV/Study-Goal) | Premium university OS for ambitious students - semester planning, GPA tracking, goal management | TypeScript, Next.js, React | ⭐ Active |
-| [**MathRAG-THPT**](https://github.com/CaoRIV/MathRAG-THPT) | AI-powered math learning chatbot for high school students | Python, TypeScript, RAG, LLM | ⭐ Active |
-| [**IT-Smart-Assistant**](https://github.com/CaoRIV/IT-Smart-Assistant) | AI Assistant supporting lecturers & students at IT faculty (SSR 2025-2026) | Python, TypeScript, FastAPI | ⭐ Active |
-| [**V-Fashion-Insight**](https://github.com/CaoRIV/V-Fashion-Insight) | Aspect-based sentiment analysis for Vietnamese fashion reviews | Python, PhoBERT, TF-IDF, Streamlit | ✅ Complete |
-| [**Customer Churn Analysis**](https://github.com/CaoRIV/customer-churn-data-mining) | Data Mining project analyzing and predicting customer churn | Python, Jupyter Notebook, Data Mining | ✅ Complete |
+```typescript
+const caoVanHa = {
+  role: "Information Technology Student",
+  learning: ["Full-Stack Development", "AI/ML", "Data Engineering"],
+  currentlyExploring: ["RAG Systems", "Advanced NLP", "ETL Pipelines"],
+  goal: "Build intelligent products that solve real problems"
+};
+```
 
----
+I enjoy turning ideas into useful and reliable software. My work sits at the intersection of modern web development, artificial intelligence, Vietnamese natural language processing, and data.
 
-## 📊 GitHub Stats
+- Learning to build full-stack applications with **TypeScript, React, Next.js, FastAPI, and Node.js**
+- Exploring **RAG systems, LLM integration, PhoBERT, and sentiment analysis**
+- Learning **data engineering, ETL, analytics, and data mining** through practical projects
+- Strengthening software fundamentals through **DSA, OOP, and problem solving**
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&icon_color=BF91F3&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&border_radius=10" />
-</p>
+## Tech stack
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=0D1117&color=C9D1D9&line=70A5FD&point=BF91F3&area=true&hide_border=true" />
-</p>
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaoRIV&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/CaoRIV" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Languages and tools" src="https://skillicons.dev/icons?i=hhtml,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,python,pytorch,sklearn,cpp,cs,java,postgres,redis,docker,git,github,vscode,vercel&perline=11" />
   </a>
-  
-  <a href="https://www.youtube.com/@devcoinrir11" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<br />
+
+| Focus | Technologies and concepts |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, HTML, CSS |
+| **Backend** | Python, FastAPI, Node.js, REST APIs, WebSocket |
+| **AI & NLP** | RAG, LLM integration, PhoBERT, TF-IDF, sentiment analysis |
+| **Data** | PostgreSQL, Redis, ETL, data analysis, data mining |
+| **Foundations** | C++, C#, Java, OOP, data structures and algorithms |
+| **Tooling** | Git, GitHub, Docker, VS Code, Vercel |
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Study Goal</h3>
+      <p>A modern university operating system for semester planning, GPA tracking, and personal goal management.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code></p>
+      <a href="https://github.com/CaoRIV/Study-Goal"><strong>Explore repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MathRAG THPT</h3>
+      <p>An AI-powered mathematics learning assistant for Vietnamese high-school students using retrieval-augmented generation.</p>
+      <p><code>Python</code> <code>TypeScript</code> <code>RAG</code> <code>LLM</code></p>
+      <a href="https://github.com/CaoRIV/MathRAG-THPT"><strong>Explore repository →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>IT Smart Assistant</h3>
+      <p>An intelligent assistant supporting lecturers and students at the Information Technology faculty.</p>
+      <p><code>FastAPI</code> <code>Python</code> <code>TypeScript</code></p>
+      <a href="https://github.com/CaoRIV/IT-Smart-Assistant"><strong>Explore repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>V-Fashion Insight</h3>
+      <p>Aspect-based sentiment analysis for Vietnamese fashion reviews using modern NLP techniques.</p>
+      <p><code>PhoBERT</code> <code>TF-IDF</code> <code>Python</code> <code>Streamlit</code></p>
+      <a href="https://github.com/CaoRIV/V-Fashion-Insight"><strong>Explore repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>More work</strong></summary>
+  <br />
+  <a href="https://github.com/CaoRIV/customer-churn-data-mining"><strong>Customer Churn Analysis</strong></a>
+  <p>A data-mining project for exploring customer behavior and predicting churn from structured data.</p>
+  <p><code>Python</code> <code>Jupyter Notebook</code> <code>Data Mining</code></p>
+</details>
+
+## GitHub insights
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB&icon_color=60A5FA" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=6D28D9&text_color=374151&icon_color=2563EB" />
+  <img height="175" alt="Cao Van Ha's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=6D28D9&text_color=374151&icon_color=2563EB" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=374151" />
+  <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=374151" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=374151&ring=A78BFA&fire=60A5FA&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=E5E7EB&ring=6D28D9&fire=2563EB&currStreakNum=111827&sideNums=111827&currStreakLabel=6D28D9&sideLabels=4B5563&dates=9CA3AF" />
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=E5E7EB&ring=6D28D9&fire=2563EB&currStreakNum=111827&sideNums=111827&currStreakLabel=6D28D9&sideLabels=4B5563&dates=9CA3AF" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=9CA3AF&title_color=A78BFA&line=8B5CF6&point=60A5FA&area=true&area_color=8B5CF6&hide_border=true&radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=4B5563&title_color=6D28D9&line=7C3AED&point=2563EB&area=true&area_color=C4B5FD&hide_border=true&radius=12" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=4B5563&title_color=6D28D9&line=7C3AED&point=2563EB&area=true&area_color=C4B5FD&hide_border=true&radius=12" />
+</picture>
+
+</div>
+
+## Current focus
+
+- **AI & LLM Integration** — production-ready RAG systems and advanced NLP workflows
+- **Educational Technology** — study planning and personalized learning assistants
+- **Vietnamese NLP** — sentiment analysis and aspect-based language understanding
+- **Full-Stack Development** — learning to build reliable products with TypeScript and Python
+- **Data Engineering** — ETL pipelines, analytics, and practical data systems
 
 ---
 
-## ✨ Quote
+<div align="center">
 
-> "Keep learning, keep building, and trust the process."
+### Let's build something meaningful
+
+I am open to learning opportunities, technical collaboration, and conversations about web engineering, AI, data, and educational technology.
+
+[GitHub](https://github.com/CaoRIV) · [YouTube](https://www.youtube.com/@devcoinrir11)
+
+<sub>Keep learning · Keep building · Trust the process</sub>
+
+</div>
+

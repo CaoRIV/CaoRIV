@@ -101,19 +101,7 @@ I enjoy turning ideas into useful and reliable software. My work sits at the int
 
 ## GitHub insights
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&text_color=9CA3AF&title_color=A78BFA)](https://github.com/CaoRIV)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF)](https://github.com/CaoRIV)
-
-<br />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=374151&ring=A78BFA&fire=60A5FA&currStreakNum=E5E7EB&sideNums=9CA3AF)](https://github.com/CaoRIV)
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=9CA3AF&title_color=A78BFA&line=8B5CF6&point=60A5FA&hide_border=true)](https://github.com/CaoRIV)
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaoRIV&theme=shades-of-purple)](https://git.io/streak-stats)
 
 ## Current focus
 

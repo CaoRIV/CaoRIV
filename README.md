@@ -5,9 +5,9 @@
 ### Information Technology Student · Full-Stack Learner · AI & Data Enthusiast
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Information+Technology+Student+at+UTC;Building+useful+products+with+code;Exploring+AI%2C+LLMs+and+Data+Engineering;Learning+in+public%2C+one+project+at+a+time" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Information+Technology+Student+at+UTC;Building+useful+products+with+code;Exploring+AI%2C+LLMs+and+Data+Engineering;Learning+in+public%2C+one+project+at+a+time" />
-  <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Information+Technology+Student+at+UTC;Building+useful+products+with+code;Exploring+AI%2C+LLMs+and+Data+Engineering;Learning+in+public%2C+one+project+at+a+time" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=680&height=100&lines=Turning+ideas+into+intelligent+software">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=100&lines=Turning+ideas+into+intelligent+software">
+  <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=100&lines=Turning+ideas+into+intelligent+software">
 </picture>
 
 <p>
@@ -43,7 +43,7 @@ I enjoy turning ideas into useful and reliable software. My work sits at the int
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img alt="Languages and tools" src="https://skillicons.dev/icons?i=hhtml,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,python,pytorch,sklearn,cpp,cs,java,postgres,redis,docker,git,github,vscode,vercel&perline=11" />
+    <img alt="Languages and tools" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,python,pytorch,sklearn,cpp,cs,java,postgres,redis,docker,git,github,vscode">
   </a>
 </div>
 
@@ -103,31 +103,15 @@ I enjoy turning ideas into useful and reliable software. My work sits at the int
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB&icon_color=60A5FA" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=6D28D9&text_color=374151&icon_color=2563EB" />
-  <img height="175" alt="Cao Van Ha's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=6D28D9&text_color=374151&icon_color=2563EB" />
-</picture>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=00000000&text_color=9CA3AF&title_color=A78BFA)](https://github.com/CaoRIV)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=374151" />
-  <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=374151" />
-</picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=donut&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF)](https://github.com/CaoRIV)
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=374151&ring=A78BFA&fire=60A5FA&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=E5E7EB&ring=6D28D9&fire=2563EB&currStreakNum=111827&sideNums=111827&currStreakLabel=6D28D9&sideLabels=4B5563&dates=9CA3AF" />
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=E5E7EB&ring=6D28D9&fire=2563EB&currStreakNum=111827&sideNums=111827&currStreakLabel=6D28D9&sideLabels=4B5563&dates=9CA3AF" />
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaoRIV&hide_border=true&background=00000000&stroke=374151&ring=A78BFA&fire=60A5FA&currStreakNum=E5E7EB&sideNums=9CA3AF)](https://github.com/CaoRIV)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=9CA3AF&title_color=A78BFA&line=8B5CF6&point=60A5FA&area=true&area_color=8B5CF6&hide_border=true&radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=4B5563&title_color=6D28D9&line=7C3AED&point=2563EB&area=true&area_color=C4B5FD&hide_border=true&radius=12" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=4B5563&title_color=6D28D9&line=7C3AED&point=2563EB&area=true&area_color=C4B5FD&hide_border=true&radius=12" />
-</picture>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CaoRIV&bg_color=00000000&color=9CA3AF&title_color=A78BFA&line=8B5CF6&point=60A5FA&hide_border=true)](https://github.com/CaoRIV)
 
 </div>
 
@@ -152,4 +136,3 @@ I am open to learning opportunities, technical collaboration, and conversations 
 <sub>Keep learning · Keep building · Trust the process</sub>
 
 </div>
-

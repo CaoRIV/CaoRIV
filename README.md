@@ -101,7 +101,9 @@ I enjoy turning ideas into useful and reliable software. My work sits at the int
 
 ## GitHub insights
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaoRIV&theme=shades-of-purple)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CaoRIV&theme=shades-of-purple" alt="GitHub Streak" /></a>
+</div>
 
 ## Current focus
 

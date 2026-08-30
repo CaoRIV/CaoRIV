@@ -102,8 +102,7 @@ I enjoy turning ideas into useful and reliable software. My work sits at the int
 ## GitHub insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaoRIV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoRIV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CaoRIV" alt="GitHub Streak" /></a>
 </div>
 
 ## Current focus

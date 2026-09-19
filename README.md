@@ -13,7 +13,7 @@
  <p>
    <a href="https://github.com/CaoRIV"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
    <a href="https://www.youtube.com/@devcoinrir11"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-+  <a href="https://caoha.me"><img alt="About Me" src="https://img.shields.io/badge/About%20Me-caoha.me-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+   <a href="https://caoha.me"><img alt="About Me" src="https://img.shields.io/badge/About%20Me-caoha.me-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
  </p>
 
 <sub>Ha Tinh, Vietnam · University of Transport and Communications</sub>

@@ -10,10 +10,11 @@
   <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=680&height=100&lines=Turning+ideas+into+intelligent+software">
 </picture>
 
-<p>
-  <a href="https://github.com/CaoRIV"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@devcoinrir11"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+ <p>
+   <a href="https://github.com/CaoRIV"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://www.youtube.com/@devcoinrir11"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" /></a>
++  <a href="https://caoha.me"><img alt="About Me" src="https://img.shields.io/badge/About%20Me-caoha.me-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+ </p>
 
 <sub>Ha Tinh, Vietnam · University of Transport and Communications</sub>
 
